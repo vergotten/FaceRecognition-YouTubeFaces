@@ -23,3 +23,7 @@ do
   # Commit the file
   git commit -m "Add $file"
 done
+
+
+
+git push origin master

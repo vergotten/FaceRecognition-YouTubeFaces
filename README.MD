@@ -18,8 +18,8 @@
 
 https://www.kaggle.com/datasets/selfishgene/youtube-faces-with-facial-keypoints
 
-![Проект по распознаванию лиц](../assets/dataset_example_image.png)
-![Проект по распознаванию лиц](../assets/dataset_example_points.png)
+![Проект по распознаванию лиц](assets/dataset_example_image.png)
+![Проект по распознаванию лиц](assets/dataset_example_points.png)
 
 Проект по распознаванию лиц на видео с использованием датасета YouTube Faces. В каждой директории содержатся файлы формата `.npz`.
 

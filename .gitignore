@@ -1,3 +1,11 @@
 1. Общий пайплайн CV-проекта.docx
 Программа для CV-джунов.docx
 Распознавание лиц на видео.docx
+make_commits.sh
+
+# Ignore everything in the data directory
+data/*
+
+# But not these files...
+!data/*.md
+!data/*.csv
